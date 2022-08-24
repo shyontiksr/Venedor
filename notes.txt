@@ -1,0 +1,76 @@
+ <header class="header" id="header">
+        <div class="top-nav">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6">
+            <ul class="top-nav-list">
+                <li class="top-nav-item"><a href="#link" class="top-nav-link">My Wishlist (0)</a></li>
+                <li class="top-nav-item"><a href="#link" class="top-nav-link">My Account</a></li>
+                <li class="top-nav-item"><a href="#link" class="top-nav-link">Shopping Cart</a></li>
+                <li class="top-nav-item"><a href="#link" class="top-nav-link">Checkout</a></li>
+            </ul>
+            </div>
+
+            <div class="col-md-6">
+            <p class="welcome-text">Welcome visitor you can <a href="#link">login</a> or <a href="#link">create an account</a>.</p>
+            </div>
+
+        </div>
+        </div>
+
+        <div class="middle-header">
+            <div class="row">
+
+            <div class="col-md-6">
+            <h1 class="venedor">Venedor.</h1>
+            </div>
+
+            <div class="col-md-6">
+            <button class="button1">US Dollar</button>
+            <button class="button2">English</button>
+            <button class="button3">0 item(s) - $0.00</button> 
+            </div>
+
+            </div>
+        </div>
+
+        <div class="bottom-nav">
+            <div class="row">
+                <div class="col-md-8">
+            <ul class="bottom-nav-list">
+                <li class="bottom-nav-list"><a href="#link" class="bottom-nav-link">Fashion</a></li>
+                <li class="bottom-nav-list"><a href="#link" class="bottom-nav-link">Electronics</a></li>
+                <li class="bottom-nav-list"><a href="#link" class="bottom-nav-link">Gifts</a></li>
+                <li class="bottom-nav-list"><a href="#link" class="bottom-nav-link">Books</a></li>
+                <li class="bottom-nav-list"><a href="#link" class="bottom-nav-link">At Home</a></li>
+                <li class="bottom-nav-list"><a href="#link" class="bottom-nav-link">Music</a></li>
+            </ul>
+            </div>
+            <div class="col-md-8">
+            <textarea class="search">Search here...</textarea>
+            <img src="placeholder.jpg" alt="placeholder">
+            </div>
+        </div>
+
+    </header>
+
+
+    <main>
+        <div class="main1">
+            <img src="placeholder.jpg" alt="placeholder" class="main1-pic">
+            <h2 class="main-h2">New Men Collection</h2>
+            <p class="main1-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta, ab autem commodi ullam, cumque delectus cupiditate unde nesciunt quia accusamus obcaecati dicta, officiis vero. Impedit laboriosam sunt quibusdam velit corrupti harum sequi totam alias nostrum!</p>
+            <button class="main1-button">Shop Now</button>
+        </div>
+        <div class="main2">
+            <div class="container">
+                <div class="row">
+                    <div class="column">
+                    <img src="placeholder.jpg" alt="placeholder">
+                    <img src="placeholder.jpg" alt="placeholder">
+                    <img src="placeholder.jpg" alt="placeholder">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
